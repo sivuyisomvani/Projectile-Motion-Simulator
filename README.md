@@ -37,4 +37,4 @@ This app is built using Streamlit and Matplotlib. It calculates the trajectory o
 
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LISCENSE.txt) file for details.
